@@ -1,6 +1,6 @@
 ## setup.py helps in building an application as a package
 
-from setuptools import find_packages, setup
+from setuptools import find_packages,setup
 from typing import List
 
 HYPHEN_E_DOT ='-e .'
